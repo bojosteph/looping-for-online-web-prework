@@ -1,13 +1,8 @@
 
 def using_for
-  
 	checklist = 1..10
-	
-	for charm in checklist
-	    puts "Wingardium Leviosa"
-	
-end
+		for using_for in checklist
+	    puts "Wingardium Leviosa."
+end	    
 
-
-
-
+using_for
